@@ -1,0 +1,3 @@
+Witaj w moim pierwszym repozytorium GitHub.
+To jest plik utworzony w ramach zadania 2.
+Repozytorium służy do nauki podstaw GitHub.
