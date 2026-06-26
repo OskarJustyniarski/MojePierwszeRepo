@@ -1,0 +1,3 @@
+To jest nowa funkcja dodana na branchu rozwoj.
+Plik został utworzony w ramach zadania 2.
+Zmiana zostanie później połączona z gałęzią główną.
